@@ -15,3 +15,17 @@
 <img src="https://metrics.lecoq.io/discoveruz">	
   </p>
   </p>
+<b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/discover_uz" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://instagram.com/diyorbekdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
+&nbsp; <a href="mailto:discover.diyorbek@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://t.me/diyorbekdev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/telegram-app.png" width="40"/></a>
+  
+</p>
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+#### Thank You for visiting😇
