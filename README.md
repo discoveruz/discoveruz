@@ -28,7 +28,7 @@
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=BahromjonPolat" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=discoveruz" alt="visitor badge"/>
 </p>
 
 #### Thank You for visiting😇
