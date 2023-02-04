@@ -12,7 +12,7 @@
   <br>
   <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=discoveruz&theme=dracula">
-<img src="https://metrics.lecoq.io/discoveruz">	
+
   </p>
   </p>
 <b><h2 align="center"> 🤝🏻 Connect with Me </h2></b>
